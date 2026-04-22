@@ -35,7 +35,8 @@ This project builds a reproducible forecasting pipeline that:
 
 ## ACF and PACF plot
 
-![alt text](image.png)
+<img width="1389" height="390" alt="ACF_PACF" src="https://github.com/user-attachments/assets/93b68993-1829-438f-a533-1a711b6d2f88" />
+
 
 ## Models Compared
 
@@ -52,13 +53,15 @@ This project builds a reproducible forecasting pipeline that:
 
 ## SARIMA Forecast
 
-![alt text](image-1.png)
+<img width="1389" height="490" alt="SARIMA" src="https://github.com/user-attachments/assets/54d516f2-9cf1-4c72-9762-3605747df1fc" />
+
 
 ---
 
 ## Exponential Smoothing Forecast
 
-![alt text](image-2.png)
+<img width="1389" height="490" alt="Exponential_Smoothing" src="https://github.com/user-attachments/assets/73bd6ccd-592a-41a8-bafe-6e0aaf996655" />
+
 
 ## Evaluation Metrics
 
